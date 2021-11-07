@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: stepDefs.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.648 s <<< FAILURE! - in stepDefs.TestRunner
+Check login is successful with valid credintals(Feature to test login)  Time elapsed: 0.148 s  <<< ERROR!
+io.cucumber.core.exception.CucumberException: Failed to instantiate class stepDefs.LoginStepDefs
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: java.lang.Error: 
+Unresolved compilation problem: 
+	WebDriver cannot be resolved to a type
+
+
